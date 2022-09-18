@@ -16,3 +16,11 @@ body{
     background-color: #587498;
     padding: 20px;
 }
+
+a {
+    color: #ffffff;
+}
+
+ol li {
+    color: red;
+}
