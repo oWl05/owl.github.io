@@ -4,7 +4,7 @@ body{
 }
 
 .container{
-    background: url(./img/top.jpg) ;
+    background: url(./img/top_2.jpg) ;
     width: 1200px;
     height: 1000px;
     margin: 0 auto;
@@ -23,4 +23,23 @@ a {
 
 ol li {
     color: red;
+}
+.header a:hover {
+    color:red;
+}
+
+a:active {
+    font-weight: 200;
+}
+
+a:visited{
+    opacity: 0,5;
+}
+
+h2::before{
+    content: '-';
+}
+
+h2::after{
+    content: '-';
 }
