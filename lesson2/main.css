@@ -16,30 +16,3 @@ body{
     background-color: #587498;
     padding: 20px;
 }
-
-a {
-    color: #ffffff;
-}
-
-ol li {
-    color: red;
-}
-.header a:hover {
-    color:red;
-}
-
-a:active {
-    font-weight: 200;
-}
-
-a:visited{
-    opacity: 0,5;
-}
-
-h2::before{
-    content: '-';
-}
-
-h2::after{
-    content: '-';
-}
